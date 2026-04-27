@@ -1,0 +1,1 @@
+# shadowmanga-extension
